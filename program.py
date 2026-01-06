@@ -44,5 +44,6 @@ def knapsack_backtracking(index, current_weight, current_profit, selected_items)
 knapsack_backtracking(0, 0, 0, [])
 
 print(f"--- Solusi Optimal Knapsack (Kapasitas {kapasitas_maks} Ton) ---")
-print(f"Total Keuntungan Maksimal: {max_profit} Juta Rp")
+print(f"Total Keuntungan Maksimal:Rp {max_profit} Juta ")
+
 print(f"Barang yang dibawa: {', '.join(best_combination)}")
