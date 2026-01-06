@@ -2,6 +2,10 @@
 
 Repositori ini berisi implementasi algoritma **Backtracking** dalam bahasa Python untuk menyelesaikan persoalan optimasi pengangkutan barang (0/1 Knapsack Problem).
 
+## Anggota Kelompok
+Ummul Mu'minin 105841117323
+Andi Nailah Mashfufah Sulfa 105841116623
+
 ## Deskripsi Masalah
 Program mencari kombinasi muatan kereta api yang memberikan keuntungan (*profit*) maksimal dengan batasan kapasitas tertentu. 
 
